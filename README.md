@@ -1,2 +1,2 @@
-# tes_solve
+# test_solve
 interview test solve
